@@ -1,5 +1,5 @@
-# CarND-Path-Planning-Project-P1
-Udacity Self-Driving Car Nanodegree - Path Planning Project
+# CarND-Path-Planning
+Udacity Self-Driving Car Nanodegree - Path Planning
 
 ![Driving](images/driving.png)
 
@@ -16,6 +16,7 @@ The project has the following dependencies (from Udacity's seed project):
 - gcc/g++ >= 5.4
 - libuv 1.12.0
 - Udacity's simulator.
+- unzip Eigen-3.3 files into src folder
 
 For instructions on how to install these components on different operating systems, please, visit [Udacity's seed project](https://github.com/udacity/CarND-Path-Planning-Project). As this particular implementation was done on Mac OS, the rest of this documentation will be focused on Mac OS. I am sorry to be that restrictive.
 
